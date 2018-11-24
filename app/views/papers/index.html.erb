@@ -1,0 +1,21 @@
+<% title "Papers" %>
+
+<table>
+  <tr>
+    <th>Subject</th>
+    <th>Grade</th>
+    <th>Year</th>
+  </tr>
+  <% for paper in @papers %>
+    <tr>
+      <td><%= paper.subject %></td>
+      <td><%= paper.grade %></td>
+      <td><%= paper.year %></td>
+      <td><%= link_to "Show", paper %></td>
+      <td><%= link_to "Edit", edit_paper_path(paper) %></td>
+      <td><%= link_to "Delete", paper, method: :delete, data: { confirm: "You sure?" } %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Paper", new_paper_path %></p>

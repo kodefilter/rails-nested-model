@@ -1,0 +1,27 @@
+<%= form_for @paper do |f| %>
+<%= f.error_messages %>
+<p>
+	<%= f.label :subject %>
+	<br />
+	<%= f.text_field :subject %>
+</p>
+<p>
+	<%= f.label :grade %>
+	<br />
+	<%= f.text_field :grade %>
+</p>
+<p>
+	<%= f.label :year %>
+	<br />
+	<%= f.text_field :year %>
+</p>
+
+<%= f.fields_for :questions do |builder| %>
+<%= render 'question_fields', :f => builder %>
+
+<% end %>
+
+<p>
+	<%= f.submit "Submit" %>
+</p>
+<% end %>

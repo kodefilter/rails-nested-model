@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="24" version="2.0">
+<workbenchAdvisor/>
+<window height="700" maximized="true" width="1239" x="41" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.python.pydev.debug.actionSet" itemType="typeToolBarContribution" x="54" y="22"/>
+<coolItem id="com.python.pydev.navigate.actionSet" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.js" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.ruby" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.erb.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1393625802316" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.erb.html" name="_form.html.erb" partName="_form.html.erb" title="_form.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_form.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_form.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="85" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.erb.html" name="edit.html.erb" partName="edit.html.erb" title="edit.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/edit.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/edit.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="36" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.erb.html" name="application.html.erb" partName="application.html.erb" title="application.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/layouts/application.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/layouts/application.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="379" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.erb.html" name="show.html.erb" partName="show.html.erb" title="show.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/users/show.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/users/show.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.erb.html" name="new.html.erb" partName="new.html.erb" title="new.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/users/new.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/users/new.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="5"/>
+</editor>
+<editor id="com.aptana.editor.ruby" name="users_controller.rb" partName="users_controller.rb" title="users_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/users_controller.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/users_controller.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="295" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.ruby" name="papers_controller.rb" partName="papers_controller.rb" title="papers_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/papers_controller.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/papers_controller.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="152" selectionTopPixel="425"/>
+</editor>
+<editor id="com.aptana.editor.ruby" name="application_controller.rb" partName="application_controller.rb" title="application_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/application_controller.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/application_controller.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="230" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.ruby" name="application_helper.rb" partName="application_helper.rb" title="application_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/application_helper.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/application_helper.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.ruby" name="sessions_helper.rb" partName="sessions_helper.rb" title="sessions_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/sessions_helper.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/sessions_helper.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="368"/>
+</editor>
+<editor id="com.aptana.editor.ruby" name="users_helper.rb" partName="users_helper.rb" title="users_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="132" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.erb.html" name="_user_info.html.erb" partName="_user_info.html.erb" title="_user_info.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/shared/_user_info.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/shared/_user_info.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="65" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal">
+<viewState>
+<title>Terminal</title>
+<workingDirectory>/Users/pradeepghimire</workingDirectory>
+</viewState>
+</view>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.PHPBrowserOutput" partName="Browser Output"/>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="com.aptana.js.debug.ui.scriptsView" partName="Loaded Scripts">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.ruby" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@b92dc2" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+<fastViews>
+<view id="com.aptana.samples.ui.SamplesView" ratio="0.3"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.18020917" ratioLeft="224" ratioRight="1019" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.6764706" ratioLeft="414" ratioRight="198" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="com.aptana.terminal.views.terminal" appearance="2" expanded="2">
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@b92dc2" ratio="0.35944057" ratioLeft="257" ratioRight="458" relationship="4" relative="left">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<alwaysOnActionSet id="com.python.pydev.navigate.actionSet"/>
+<alwaysOnActionSet id="com.python.pydev.debug.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.python.pydev.exceptionBreakpoints"/>
+<alwaysOnActionSet id="org.python.pydev.pyPropertyTrace"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.js.debug.ui.scriptsView"/>
+<show_view_action id="com.aptana.js.debug.ui.AJAXMonitorView"/>
+<show_view_action id="com.aptana.ruby.debug.ui.DisplayView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<perspective_action id="com.aptana.ui.WebPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.PHPBrowserOutput"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="com.aptana.js.debug.ui.scriptsView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.74930364" ratioLeft="538" ratioRight="180" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.debug.ui.PHPBrowserOutput" label="Browser Output"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="com.aptana.ruby.debug.ui.DisplayView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.44981414" ratioLeft="242" ratioRight="296" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="954" ratioRight="318" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="636" ratioRight="636" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.BreakpointView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="com.aptana.js.debug.ui.scriptsView" label="Loaded Scripts"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.PHPStackView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_form.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/users/show.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/sessions_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/static_pages_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/application_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/users_controller.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/papers_controller.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/index.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/show.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_question_fields.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/edit.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/new.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/application_controller.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/shared/_user_info.html.erb"/>
+</editors>
+<item historyLabel="_form.html.erb" index="0">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="index.html.erb | papers" index="8">
+<position info="not_deleted" x="478" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="164" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="users_helper.rb" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="static_pages_helper.rb" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="application_helper.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="static_pages_helper.rb" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="application_helper.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="164" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="1743" y="0"/>
+</item>
+<item historyLabel="index.html.erb" index="8">
+<position info="not_deleted" x="225" y="0"/>
+</item>
+<item historyLabel="show.html.erb" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="show.html.erb | papers" index="9">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="_form.html.erb" index="0">
+<position info="not_deleted" x="85" y="0"/>
+</item>
+<item historyLabel="_question_fields.html.erb" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="edit.html.erb" index="11">
+<position info="not_deleted" x="0" y="36"/>
+</item>
+<item historyLabel="index.html.erb" index="8">
+<position info="not_deleted" x="225" y="0"/>
+</item>
+<item historyLabel="new.html.erb | papers" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="show.html.erb | papers" index="9">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="new.html.erb | papers" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html.erb" index="8">
+<position info="not_deleted" x="225" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="1743" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="241" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="241" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="241" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="122" y="0"/>
+</item>
+<item historyLabel="application_controller.rb" index="13">
+<position info="not_deleted" x="230" y="0"/>
+</item>
+<item historyLabel="application_helper.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="users_controller.rb" index="6">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="application_helper.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="application_controller.rb" index="13">
+<position info="not_deleted" x="230" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+<item historyLabel="users_helper.rb" index="14">
+<position info="not_deleted" x="132" y="0"/>
+</item>
+<item historyLabel="show.html.erb" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="_user_info.html.erb" index="15">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="users_helper.rb" index="14">
+<position info="not_deleted" x="132" y="0"/>
+</item>
+<item historyLabel="application_helper.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="application_controller.rb" index="13">
+<position info="not_deleted" x="230" y="0"/>
+</item>
+<item historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+<item historyLabel="show.html.erb" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="papers_controller.rb" index="7">
+<position info="not_deleted" x="153" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@b92dc2"/>
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_user_info.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/shared/_user_info.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/shared/_user_info.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="users_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/users_helper.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="sessions_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/sessions_helper.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/sessions_helper.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="application_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/application_helper.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/application_helper.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="application_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/application_controller.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/application_controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="new.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/new.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/new.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_question_fields.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_question_fields.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/_question_fields.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="show.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/show.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/show.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="index.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/papers/index.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/papers/index.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="papers_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/papers_controller.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/papers_controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="users_controller.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/controllers/users_controller.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/controllers/users_controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="static_pages_helper.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/helpers/static_pages_helper.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/helpers/static_pages_helper.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="user.rb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/models/user.rb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/models/user.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_user.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/users/_user.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/users/_user.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="edit.html.erb" tooltip="/Users/pradeepghimire/workspace/prashna_app/app/views/users/edit.html.erb">
+<persistable uri="file:/Users/pradeepghimire/workspace/prashna_app/app/views/users/edit.html.erb"/>
+</file>
+</mruList>
+</workbench>
